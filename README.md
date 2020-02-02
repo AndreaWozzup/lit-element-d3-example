@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LitElement TypeScript starter 
 
 This project includes a sample component using LitElement with TypeScript.
@@ -110,3 +111,7 @@ The site will usually be served at http://localhost:8000.
 ## More information
 
 See [Get started](https://lit-element.polymer-project.org/guide/start) on the LitElement site for more information.
+=======
+# lit-element-d3-example
+Simple LitElement web component that uses D3 library
+>>>>>>> 7616a624c1cc42dc6c56130bbcab3d60b907e178
